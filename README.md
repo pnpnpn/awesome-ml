@@ -1,5 +1,8 @@
 Awesome ML Datasets
 ===
+- [Visual7W visual question answering dataset](https://github.com/yukezhu/visual7w-qa-models) (2016)
+  - collected on 47,300 COCO images
+  - In total, it has 327,939 QA pairs, together with 1,311,756 human-generated multiple-choices and 561,459 object groundings from 36,579 categories
 
 - [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/dataset.html) (2016)
   - Sequential vision-to-language, and explore how this data may be used for the task of visual storytelling. 
@@ -11,6 +14,7 @@ Awesome ML Datasets
   - pruned Katz (~15M n-grams), 
   - unpruned Interpolated Kneser-Ney (1.1B n-grams), 
   - pruned Interpolated Kneser-Ney (~15M n-grams)
+  
 - [Cornell movie-diaglogs corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) [2011]
   - 220,579 conversational exchanges between 10,292 pairs of movie characters
   - involves 9,035 characters from 617 movies
