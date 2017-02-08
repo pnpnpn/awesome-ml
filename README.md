@@ -1,4 +1,4 @@
-Awesome ML
+Awesome Machine Learning
 ===
 
 Datasets
