@@ -1,5 +1,8 @@
-Awesome ML Datasets
+Awesome ML
 ===
+
+Datasets
+---
 - [Visual7W visual question answering dataset](https://github.com/yukezhu/visual7w-qa-models) (2016)
   - collected on 47,300 COCO images
   - In total, it has 327,939 QA pairs, together with 1,311,756 human-generated multiple-choices and 561,459 object groundings from 36,579 categories
@@ -19,3 +22,15 @@ Awesome ML Datasets
   - 220,579 conversational exchanges between 10,292 pairs of movie characters
   - involves 9,035 characters from 617 movies
   - in total 304,713 utterances
+
+Projects
+---
+- [Deep Text Correcter](https://github.com/atpaino/deep-text-correcter) (2016)
+  - Blog post: http://atpaino.com/2017/01/03/deep-text-correcter.html
+  - Live demo: http://atpaino.com/dtc.html
+  - Trained on: http://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html
+
+
+Courses
+---
+- [Oxford Eeep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
