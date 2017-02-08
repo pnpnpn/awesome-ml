@@ -18,7 +18,7 @@ Datasets
   - unpruned Interpolated Kneser-Ney (1.1B n-grams), 
   - pruned Interpolated Kneser-Ney (~15M n-grams)
   
-- [Cornell movie-diaglogs corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) [2011]
+- [Cornell movie-diaglogs corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) (2011)
   - 220,579 conversational exchanges between 10,292 pairs of movie characters
   - involves 9,035 characters from 617 movies
   - in total 304,713 utterances
@@ -33,4 +33,4 @@ Projects
 
 Courses
 ---
-- [Oxford Eeep NLP 2017](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures) (2017)
