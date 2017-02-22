@@ -22,6 +22,9 @@ Datasets
   - 220,579 conversational exchanges between 10,292 pairs of movie characters
   - involves 9,035 characters from 617 movies
   - in total 304,713 utterances
+  
+- [PPDB: The Paraphrase Database](http://www.cis.upenn.edu/%7Eccb/ppdb/) (2013)
+  -  Its English portion, PPDB:Eng, contains over 220 million paraphrase pairs, consisting of 73 million phrasal and 8 million lexical paraphrases, as well as 140 million paraphrase patterns, which capture many meaning-preserving syntactic transformations. 
 
 Projects
 ---
