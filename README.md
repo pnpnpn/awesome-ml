@@ -9,6 +9,7 @@ Datasets
 - collected on 47,300 COCO images
 - In total, it has 327,939 QA pairs, together with 1,311,756 human-generated multiple-choices and 561,459 object groundings from 36,579 categories
 
+net thing
 - [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/dataset.html) (2016)
   - Sequential vision-to-language, and explore how this data may be used for the task of visual storytelling. 
   - The dataset includes 81,743 unique photos in 20,211 sequences, aligned to descriptive and story language. 
