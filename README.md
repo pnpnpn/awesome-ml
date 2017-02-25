@@ -3,7 +3,9 @@ Awesome ML (Machine Learning)
 
 Datasets
 ---
+
 [Visual7W visual question answering dataset](https://github.com/yukezhu/visual7w-qa-models) (2016)
+
 - collected on 47,300 COCO images
 - In total, it has 327,939 QA pairs, together with 1,311,756 human-generated multiple-choices and 561,459 object groundings from 36,579 categories
 
