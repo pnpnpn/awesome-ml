@@ -41,3 +41,4 @@ Courses
 Talks
 ---
 - [Lecun: What's wrong with deep learning?](http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/)
+- [LeCun: Deep learning and future of AI](https://www.youtube.com/watch?v=_1Cyyt-4-n8)
