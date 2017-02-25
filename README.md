@@ -34,10 +34,10 @@ Datasets
 
 Projects
 ---
-- [Deep Text Correcter](https://github.com/atpaino/deep-text-correcter) (2016)
-  - Blog post: http://atpaino.com/2017/01/03/deep-text-correcter.html
-  - Live demo: http://atpaino.com/dtc.html
-  - Trained on: http://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html
+[Deep Text Correcter](https://github.com/atpaino/deep-text-correcter) (2016)
+- Blog post: http://atpaino.com/2017/01/03/deep-text-correcter.html
+- Live demo: http://atpaino.com/dtc.html
+- Trained on: http://www.cs.cornell.edu/%7Ecristian/Cornell_Movie-Dialogs_Corpus.html
 
 
 Courses
