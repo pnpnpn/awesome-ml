@@ -37,3 +37,7 @@ Projects
 Courses
 ---
 - [Oxford Deep NLP](https://github.com/oxford-cs-deepnlp-2017/lectures) (2017)
+
+Talks
+---
+- [Lecun: What's wrong with deep learning?](http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/)
