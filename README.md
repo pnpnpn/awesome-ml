@@ -3,9 +3,9 @@ Awesome ML (Machine Learning)
 
 Datasets
 ---
-- [Visual7W visual question answering dataset](https://github.com/yukezhu/visual7w-qa-models) (2016)
-  - collected on 47,300 COCO images
-  - In total, it has 327,939 QA pairs, together with 1,311,756 human-generated multiple-choices and 561,459 object groundings from 36,579 categories
+[Visual7W visual question answering dataset](https://github.com/yukezhu/visual7w-qa-models) (2016)
+- collected on 47,300 COCO images
+- In total, it has 327,939 QA pairs, together with 1,311,756 human-generated multiple-choices and 561,459 object groundings from 36,579 categories
 
 - [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/dataset.html) (2016)
   - Sequential vision-to-language, and explore how this data may be used for the task of visual storytelling. 
@@ -25,6 +25,12 @@ Datasets
   
 - [PPDB: The Paraphrase Database](http://www.cis.upenn.edu/%7Eccb/ppdb/) (2013)
   -  Its English portion, PPDB:Eng, contains over 220 million paraphrase pairs, consisting of 73 million phrasal and 8 million lexical paraphrases, as well as 140 million paraphrase patterns, which capture many meaning-preserving syntactic transformations. 
+  
+- [Wordbank: An open database of children's vocabulary development](http://wordbank.stanford.edu/) (2015)
+  - Wordbank contains data from 63,386 children
+and 71,003 CDI administrations, across
+23 languages and 44 instruments:
+
 
 Projects
 ---
@@ -41,4 +47,4 @@ Courses
 Talks
 ---
 - [Lecun: What's wrong with deep learning?](http://techtalks.tv/talks/whats-wrong-with-deep-learning/61639/)
-- [LeCun: Deep learning and future of AI](https://www.youtube.com/watch?v=_1Cyyt-4-n8)
+- [LeCun: Deep learning and future of AI](https://www.youtube.com/watch?v=_1Cyyt-4-n8) (2016)
