@@ -3,6 +3,12 @@ Awesome ML (Machine Learning)
 
 Datasets
 ---
+[OpenSubtitles](http://opus.lingfil.uu.se/OpenSubtitles2016.php) (2016)
+- translated movie subtitles from http://www.opensubtitles.org/
+- 65 languages, 1,850 bitexts
+- total number of files: 2,793,243
+- total number of tokens: 17.09G
+- total number of sentence fragments: 2.60G
 
 [Visual7W visual question answering dataset](https://github.com/yukezhu/visual7w-qa-models) (2016)
 - collected on 47,300 COCO images
