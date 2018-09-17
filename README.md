@@ -3,6 +3,11 @@ Awesome ML (Machine Learning)
 
 Datasets
 ---
+[Google's dataset search](https://toolbox.google.com/datasetsearch)
+
+[Semantic Scholar corpus](https://labs.semanticscholar.org/corpus/)
+* Over 39 million published research papers in Computer Science, Neuroscience, and Biomedical.
+
 [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (2016)
 * Stanford Question Answering Dataset (SQuAD) is a new reading comprehension dataset, consisting of questions posed by crowdworkers on a set of Wikipedia articles, where the answer to every question is a segment of text, or span, from the corresponding reading passage. With 100,000+ question-answer pairs on 500+ articles, SQuAD is significantly larger than previous reading comprehension datasets.
 
